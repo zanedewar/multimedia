@@ -8,9 +8,16 @@ font-size: 1.5em;
 h1 { font-family: Georgia, serif;
 }
 
-body {font-family: Lucida, serif;
+body { font-family: Lucida, serif;
 font-size: 1em ;
 background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
+} 
+
+iframe {
+   width: 300px;
+   border: 15px solid green;
+   padding: 50px;
+   margin: 20px;
 }
 
 footer { font-size: 50%;
