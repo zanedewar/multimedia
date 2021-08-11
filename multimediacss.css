@@ -24,7 +24,8 @@ iframe {
    
 }
 
-.span {font-family: palette mosaic;
+span {font-family: stencil std, fantasy;
+font-style: italic;
 }
 
 footer { font-size: 50%;
