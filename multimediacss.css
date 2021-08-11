@@ -1,4 +1,5 @@
-h1, h2
+h1, h2 {font-family: Georgia, serif;
+}
 
 
 
@@ -7,13 +8,26 @@ font-size: 1em ;
 }
 
 #grad {
-  background-image: linear-gradient(to bottom right, white, violet, pink);
+  background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
 }
 
+#formation {
+  border: 15px #aafaf3;
+  padding: 50px;
+  margin: 20px;
+}
 
+#America {
+  border: 15px #faf0af;
+  padding: 50px;
+  margin: 20px;
+}
 
-
-
+#Walking {
+  border: 15px #fa9da1;
+  padding: 50px;
+  margin: 20px;
+}
 
 iframe {
    max-width: 100%;
