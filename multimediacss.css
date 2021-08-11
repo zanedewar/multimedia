@@ -18,21 +18,21 @@ background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
   border: 15px #aafaf3;
   padding: 50px;
   margin: 20px;
-  float: left;
+  float: center;
 }
 
 #America {
   border: 15px #faf0af;
   padding: 50px;
   margin: 20px;
-  float: left;
+  float: center;
 }
 
 #Walking {
   border: 15px #fa9da1;
   padding: 50px;
   margin: 20px;
-  float: left;
+  float: center;
 }
 
 iframe {
