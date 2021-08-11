@@ -15,7 +15,7 @@ background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
 
 iframe {
    width: 300px;
-   border: 5px light blue;
+   border: 5px lightcyan;
    padding: 25px;
    margin: 10px;
 }
