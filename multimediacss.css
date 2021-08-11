@@ -38,9 +38,5 @@ background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
   float: center;
 }
 
-iframe {
-   max-width: 100%;
-}
-
 footer { font-size: 50%;
 }
