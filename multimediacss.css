@@ -1,14 +1,13 @@
 html { height:100%;
 }
 
-header {font-family: Georgia, serif;
-font-size: 1.5em;
+h1 { font-family: Lucida, serif;
 }
 
-h1 { font-family: Georgia, serif;
+h2 { font-family: Lucida, serif;
 }
 
-body { font-family: Lucida, serif;
+body { font-family: Georgia, serif;
 font-size: 1em ;
 background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
 } 
@@ -16,7 +15,7 @@ background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
 iframe {
    width: 300px;
    border: 5px solid lightcyan;
-   padding: 25px;
+   padding: 10px;
    margin: 10px;
 }
 
