@@ -6,10 +6,7 @@ h2 {font-family: Georgia, serif;
 
 body {font-family:Lucida, serif;
 font-size: 1em ;
-}
-
-#grad {
-  background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
+background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
 }
 
 #formation {
