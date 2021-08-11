@@ -2,6 +2,10 @@ html
 { height:100%;
 }
 
+header {font-family: Georgia, serif;
+font-size: 1.5em;
+}
+
 h1 {font-family: Georgia, serif;
 }
 
@@ -14,20 +18,26 @@ background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
   border: 15px #aafaf3;
   padding: 50px;
   margin: 20px;
+  float: left;
 }
 
 #America {
   border: 15px #faf0af;
   padding: 50px;
   margin: 20px;
+  float: left;
 }
 
 #Walking {
   border: 15px #fa9da1;
   padding: 50px;
   margin: 20px;
+  float: left;
 }
 
 iframe {
    max-width: 100%;
+}
+
+footer { font-size: 50%;
 }
