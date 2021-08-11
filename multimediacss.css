@@ -1,15 +1,14 @@
-html
-{ height:100%;
+html { height:100%;
 }
 
 header {font-family: Georgia, serif;
 font-size: 1.5em;
 }
 
-h1 {font-family: Georgia, serif;
+h1 { font-family: Georgia, serif;
 }
 
-body {font-family:Lucida, serif;
+body {font-family: Lucida, serif;
 font-size: 1em ;
 background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
 }
