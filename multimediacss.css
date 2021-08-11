@@ -3,7 +3,7 @@ font-size: 1em ;
 }
 
 #grad {
-  background-image: linear-gradient(to bottom right, red, yellow);
+  background-image: linear-gradient(to bottom right, white, violet, pink);
 }
 
 
