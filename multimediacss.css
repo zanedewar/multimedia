@@ -15,21 +15,21 @@ background-image: linear-gradient(to bottom right, #ffffff, #e08bfc, #ff82ea);
 }
 
 #formation {
-  border: 15px #aafaf3;
+  border: 15px light blue;
   padding: 50px;
   margin: 20px;
   float: center;
 }
 
 #America {
-  border: 15px #faf0af;
+  border: 15px light grey;
   padding: 50px;
   margin: 20px;
   float: center;
 }
 
 #Walking {
-  border: 15px #fa9da1;
+  border: 15px light red;
   padding: 50px;
   margin: 20px;
   float: center;
